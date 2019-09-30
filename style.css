@@ -1,0 +1,17 @@
+body{
+	background-color:blue;
+}
+h1{
+	font-family:Papyrus;
+	color:red;
+}
+p{
+	font-family:broadway;
+	color:white;
+	text-decoration:underline;
+}
+p{font-family:broadway;
+	color:white;
+}
+p{ text-align: center;
+}

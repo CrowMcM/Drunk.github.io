@@ -1,2 +1,19 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Ghost stories from NCI
+		</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<h1> The Ghost of room 3.03</h1>
+			<p>Once apun a time there was a ghost who haunted an NCI classroom on the third floor.</p>
+			<p>This is not that story, no this is the story some bored computing student made up in class</p>
+			<p>Why are you still reading? You can leave... There's no more story. Go</p>
+			<p>Stop reading. Fuck off there's nothing else here. You'll find nothing, stop wasting your time.</P>
+
+
+
+	</body>
+</html>
